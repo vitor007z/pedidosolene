@@ -1,0 +1,17 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXU9hDdLCq8rs28-LojDWLi3ROUq10xNqYdRbz36KDfp1F6TW26J8kFnU&s=10'); /* Link da imagem */
+    background-size: cover; /* Faz a imagem cobrir toda a tela */
+    background-position: center; /* Centraliza a imagem */
+    background-attachment: fixed; /* Faz com que a imagem não se mova quando rolar a página */
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7); /* Fundo semitransparente para melhorar a legibilidade */
+    border-radius: 10px;
+}
